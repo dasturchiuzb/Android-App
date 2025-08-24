@@ -10,7 +10,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/splash_inage"
+        android:src="@drawable/logo"
         android:contentDescription="@string/app_name" />
 
     <TextView
@@ -20,7 +20,6 @@
         android:layout_below="@id/splashImage"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:text="My Dictionary"
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="@color/black" />

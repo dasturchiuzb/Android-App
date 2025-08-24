@@ -15,7 +15,7 @@
         android:layout_gravity="center_horizontal"
         android:contentDescription="Profile Image"
         android:scaleType="centerCrop"
-        android:background="@drawable/splash_inage"/>
+        android:background="@drawable/logo"/>
 
     <TextView
         android:id="@+id/tvUserName"
