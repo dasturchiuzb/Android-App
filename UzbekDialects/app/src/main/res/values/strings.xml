@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O‘zbek shevalari</string>
+    <string name="toolbar_title">O‘zbek shevalari</string>
+    <string name="about_icon">Application information icon</string>
+    <string name="menu_settings">Sozlamalar</string>
+    <string name="menu_about">Dastur haqida</string>
+    <string name="menu_share">Ulashish</string>
+    <string name="menu_exit">Chiqish</string>
+    <string name="dialog_font_size">Shrift hajmi</string>
+    <string name="dialog_language">Tilni tanlang</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="navigation_drawer_open">Menyuni ochish</string>
+    <string name="navigation_drawer_close">Menyuni yopish</string>
+
+</resources>

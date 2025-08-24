@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Father",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Father\"},{\"region\":\"Surkhandarya\",\"word\":\"Dad\"},{\"region\":\"Bukhara\",\"word\":\"Father\"},{\"region\":\"Andijan\",\"word\":\"Father\"},{\"region\":\"Khorezm\",\"word\":\"Dad\"},{\"region\":\"Tashkent\",\"word\":\"Father\"},{\"region\":\"Namangan\",\"word\":\"Dad\"},{\"region\":\"Fergana\",\"word\":\"Father\"},{\"region\":\"Kashkadarya\",\"word\":\"Father\"},{\"region\":\"Jizzakh\",\"word\":\"Father\"}]"
+  },
+  {
+    "title": "Mother",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Mother\"},{\"region\":\"Surkhandarya\",\"word\":\"Mom\"},{\"region\":\"Bukhara\",\"word\":\"Mother\"},{\"region\":\"Andijan\",\"word\":\"Mother\"},{\"region\":\"Khorezm\",\"word\":\"Mama\"},{\"region\":\"Tashkent\",\"word\":\"Mother\"},{\"region\":\"Namangan\",\"word\":\"Mother\"},{\"region\":\"Fergana\",\"word\":\"Mother\"},{\"region\":\"Kashkadarya\",\"word\":\"Mother\"},{\"region\":\"Jizzakh\",\"word\":\"Mother\"}]"
+  },
+  {
+    "title": "Sister",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Sister\"},{\"region\":\"Surkhandarya\",\"word\":\"Sis\"},{\"region\":\"Bukhara\",\"word\":\"Sister\"},{\"region\":\"Andijan\",\"word\":\"Sister\"},{\"region\":\"Khorezm\",\"word\":\"Sista\"},{\"region\":\"Tashkent\",\"word\":\"Sister\"},{\"region\":\"Namangan\",\"word\":\"Sister\"},{\"region\":\"Fergana\",\"word\":\"Sister\"},{\"region\":\"Kashkadarya\",\"word\":\"Sister\"},{\"region\":\"Jizzakh\",\"word\":\"Sister\"}]"
+  },
+  {
+    "title": "Bread",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Bread\"},{\"region\":\"Surkhandarya\",\"word\":\"Loaf\"},{\"region\":\"Bukhara\",\"word\":\"Bread\"},{\"region\":\"Andijan\",\"word\":\"Bread\"},{\"region\":\"Khorezm\",\"word\":\"Nan\"},{\"region\":\"Tashkent\",\"word\":\"Bread\"},{\"region\":\"Namangan\",\"word\":\"Bread\"},{\"region\":\"Fergana\",\"word\":\"Bread\"},{\"region\":\"Kashkadarya\",\"word\":\"Bread\"},{\"region\":\"Jizzakh\",\"word\":\"Bread\"}]"
+  },
+  {
+    "title": "Water",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Water\"},{\"region\":\"Surkhandarya\",\"word\":\"Ob\"},{\"region\":\"Bukhara\",\"word\":\"Ob\"},{\"region\":\"Andijan\",\"word\":\"Water\"},{\"region\":\"Khorezm\",\"word\":\"Suw\"},{\"region\":\"Tashkent\",\"word\":\"Water\"},{\"region\":\"Namangan\",\"word\":\"Water\"},{\"region\":\"Fergana\",\"word\":\"Water\"},{\"region\":\"Kashkadarya\",\"word\":\"Water\"},{\"region\":\"Jizzakh\",\"word\":\"Water\"}]"
+  },
+  {
+    "title": "Child",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Child\"},{\"region\":\"Surkhandarya\",\"word\":\"Kid\"},{\"region\":\"Bukhara\",\"word\":\"Son\"},{\"region\":\"Andijan\",\"word\":\"Child\"},{\"region\":\"Khorezm\",\"word\":\"Boy\"},{\"region\":\"Tashkent\",\"word\":\"Child\"},{\"region\":\"Namangan\",\"word\":\"Child\"},{\"region\":\"Fergana\",\"word\":\"Child\"},{\"region\":\"Kashkadarya\",\"word\":\"Child\"},{\"region\":\"Jizzakh\",\"word\":\"Child\"}]"
+  },
+  {
+    "title": "Girl",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Girl\"},{\"region\":\"Surkhandarya\",\"word\":\"Little girl\"},{\"region\":\"Bukhara\",\"word\":\"Daughter\"},{\"region\":\"Andijan\",\"word\":\"Girl\"},{\"region\":\"Khorezm\",\"word\":\"Girl\"},{\"region\":\"Tashkent\",\"word\":\"Girl\"},{\"region\":\"Namangan\",\"word\":\"Girl\"},{\"region\":\"Fergana\",\"word\":\"Girl\"},{\"region\":\"Kashkadarya\",\"word\":\"Girl\"},{\"region\":\"Jizzakh\",\"word\":\"Girl\"}]"
+  },
+  {
+    "title": "Boy",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Boy\"},{\"region\":\"Surkhandarya\",\"word\":\"Jigit\"},{\"region\":\"Bukhara\",\"word\":\"Boy\"},{\"region\":\"Andijan\",\"word\":\"Boy\"},{\"region\":\"Khorezm\",\"word\":\"Young man\"},{\"region\":\"Tashkent\",\"word\":\"Boy\"},{\"region\":\"Namangan\",\"word\":\"Young man\"},{\"region\":\"Fergana\",\"word\":\"Boy\"},{\"region\":\"Kashkadarya\",\"word\":\"Boy\"},{\"region\":\"Jizzakh\",\"word\":\"Boy\"}]"
+  },
+  {
+    "title": "Hello",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Hello\"},{\"region\":\"Surkhandarya\",\"word\":\"Salam\"},{\"region\":\"Bukhara\",\"word\":\"Hello\"},{\"region\":\"Andijan\",\"word\":\"Hello\"},{\"region\":\"Khorezm\",\"word\":\"Hi\"},{\"region\":\"Tashkent\",\"word\":\"Hello\"},{\"region\":\"Namangan\",\"word\":\"Hello\"},{\"region\":\"Fergana\",\"word\":\"Hello\"},{\"region\":\"Kashkadarya\",\"word\":\"Hello\"},{\"region\":\"Jizzakh\",\"word\":\"Hello\"}]"
+  },
+  {
+    "title": "Book",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Book\"},{\"region\":\"Surkhandarya\",\"word\":\"Book\"},{\"region\":\"Bukhara\",\"word\":\"Book\"},{\"region\":\"Andijan\",\"word\":\"Book\"},{\"region\":\"Khorezm\",\"word\":\"Book\"},{\"region\":\"Tashkent\",\"word\":\"Book\"},{\"region\":\"Namangan\",\"word\":\"Book\"},{\"region\":\"Fergana\",\"word\":\"Book\"},{\"region\":\"Kashkadarya\",\"word\":\"Book\"},{\"region\":\"Jizzakh\",\"word\":\"Book\"}]"
+  },
+  {
+    "title": "School",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"School\"},{\"region\":\"Surkhandarya\",\"word\":\"School\"},{\"region\":\"Bukhara\",\"word\":\"School\"},{\"region\":\"Andijan\",\"word\":\"School\"},{\"region\":\"Khorezm\",\"word\":\"School\"},{\"region\":\"Tashkent\",\"word\":\"School\"},{\"region\":\"Namangan\",\"word\":\"School\"},{\"region\":\"Fergana\",\"word\":\"School\"},{\"region\":\"Kashkadarya\",\"word\":\"School\"},{\"region\":\"Jizzakh\",\"word\":\"School\"}]"
+  },
+  {
+    "title": "House",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"House\"},{\"region\":\"Surkhandarya\",\"word\":\"House\"},{\"region\":\"Bukhara\",\"word\":\"House\"},{\"region\":\"Andijan\",\"word\":\"House\"},{\"region\":\"Khorezm\",\"word\":\"House\"},{\"region\":\"Tashkent\",\"word\":\"House\"},{\"region\":\"Namangan\",\"word\":\"House\"},{\"region\":\"Fergana\",\"word\":\"House\"},{\"region\":\"Kashkadarya\",\"word\":\"House\"},{\"region\":\"Jizzakh\",\"word\":\"House\"}]"
+  },
+  {
+    "title": "Car",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Car\"},{\"region\":\"Surkhandarya\",\"word\":\"Car\"},{\"region\":\"Bukhara\",\"word\":\"Car\"},{\"region\":\"Andijan\",\"word\":\"Car\"},{\"region\":\"Khorezm\",\"word\":\"Car\"},{\"region\":\"Tashkent\",\"word\":\"Car\"},{\"region\":\"Namangan\",\"word\":\"Car\"},{\"region\":\"Fergana\",\"word\":\"Car\"},{\"region\":\"Kashkadarya\",\"word\":\"Car\"},{\"region\":\"Jizzakh\",\"word\":\"Car\"}]"
+  },
+  {
+    "title": "Friend",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Friend\"},{\"region\":\"Surkhandarya\",\"word\":\"Friend\"},{\"region\":\"Bukhara\",\"word\":\"Friend\"},{\"region\":\"Andijan\",\"word\":\"Friend\"},{\"region\":\"Khorezm\",\"word\":\"Friend\"},{\"region\":\"Tashkent\",\"word\":\"Friend\"},{\"region\":\"Namangan\",\"word\":\"Friend\"},{\"region\":\"Fergana\",\"word\":\"Friend\"},{\"region\":\"Kashkadarya\",\"word\":\"Friend\"},{\"region\":\"Jizzakh\",\"word\":\"Friend\"}]"
+  },
+  {
+    "title": "Tea",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Tea\"},{\"region\":\"Surkhandarya\",\"word\":\"Tea\"},{\"region\":\"Bukhara\",\"word\":\"Tea\"},{\"region\":\"Andijan\",\"word\":\"Tea\"},{\"region\":\"Khorezm\",\"word\":\"Tea\"},{\"region\":\"Tashkent\",\"word\":\"Tea\"},{\"region\":\"Namangan\",\"word\":\"Tea\"},{\"region\":\"Fergana\",\"word\":\"Tea\"},{\"region\":\"Kashkadarya\",\"word\":\"Tea\"},{\"region\":\"Jizzakh\",\"word\":\"Tea\"}]"
+  },
+  {
+    "title": "Stone",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Stone\"},{\"region\":\"Surkhandarya\",\"word\":\"Stone\"},{\"region\":\"Bukhara\",\"word\":\"Stone\"},{\"region\":\"Andijan\",\"word\":\"Stone\"},{\"region\":\"Khorezm\",\"word\":\"Stone\"},{\"region\":\"Tashkent\",\"word\":\"Stone\"},{\"region\":\"Namangan\",\"word\":\"Stone\"},{\"region\":\"Fergana\",\"word\":\"Stone\"},{\"region\":\"Kashkadarya\",\"word\":\"Stone\"},{\"region\":\"Jizzakh\",\"word\":\"Stone\"}]"
+  },
+  {
+    "title": "Beloved",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Beloved\"},{\"region\":\"Surkhandarya\",\"word\":\"Beloved\"},{\"region\":\"Bukhara\",\"word\":\"Beloved\"},{\"region\":\"Andijan\",\"word\":\"Beloved\"},{\"region\":\"Khorezm\",\"word\":\"Beloved\"},{\"region\":\"Tashkent\",\"word\":\"Beloved\"},{\"region\":\"Namangan\",\"word\":\"Beloved\"},{\"region\":\"Fergana\",\"word\":\"Beloved\"},{\"region\":\"Kashkadarya\",\"word\":\"Beloved\"},{\"region\":\"Jizzakh\",\"word\":\"Beloved\"}]"
+  },
+  {
+    "title": "Garden",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Garden\"},{\"region\":\"Surkhandarya\",\"word\":\"Garden\"},{\"region\":\"Bukhara\",\"word\":\"Garden\"},{\"region\":\"Andijan\",\"word\":\"Garden\"},{\"region\":\"Khorezm\",\"word\":\"Garden\"},{\"region\":\"Tashkent\",\"word\":\"Garden\"},{\"region\":\"Namangan\",\"word\":\"Garden\"},{\"region\":\"Fergana\",\"word\":\"Garden\"},{\"region\":\"Kashkadarya\",\"word\":\"Garden\"},{\"region\":\"Jizzakh\",\"word\":\"Garden\"}]"
+  },
+  {
+    "title": "Mirror",
+    "description": "[{\"region\":\"Samarkand\",\"word\":\"Mirror\"},{\"region\":\"Surkhandarya\",\"word\":\"Mirror\"},{\"region\":\"Bukhara\",\"word\":\"Mirror\"},{\"region\":\"Andijan\",\"word\":\"Mirror\"},{\"region\":\"Khorezm\",\"word\":\"Mirror\"},{\"region\":\"Tashkent\",\"word\":\"Mirror\"},{\"region\":\"Namangan\",\"word\":\"Mirror\"},{\"region\":\"Fergana\",\"word\":\"Mirror\"},{\"region\":\"Kashkadarya\",\"word\":\"Mirror\"},{\"region\":\"Jizzakh\",\"word\":\"Mirror\"}]"
+  }
+]
