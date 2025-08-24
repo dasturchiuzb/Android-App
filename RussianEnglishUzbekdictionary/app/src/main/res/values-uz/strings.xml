@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lug‘at</string>
+    <string name="toolbar_title">Lug‘at</string>
+    <string name="history_title">Tarix</string>
+    <string name="search_hint">So‘zlarni qidiring...</string>
+    <string name="action_favorites">Sevimlilar</string>
+    <string name="action_share">Ulanish</string>
+    <string name="action_exit">Chiqish</string>
+    <string name="about_text">Biz haqimizda: Bu ilova sizga sozlarni tarjima qilish imkonini beradi.</string>
+    <string name="menu_settings">Sozlamalar</string>
+    <string name="menu_about">Biz haqimizda</string>
+    <string name="menu_share">Ulashish</string>
+    <string name="menu_exit">Chiqish</string>
+    <string name="settings_font_size">Shrift o‘lchami</string>
+    <string name="settings_language">Til</string>
+    <string name="about_title">Dastur haqida</string>
+    <string name="about_description">Bu oddiy lug‘at dasturi.</string>
+    <string name="about_icon">Application information icon</string>
+    <string name="navigation_drawer_open">Ochiq</string>
+    <string name="navigation_drawer_close">Yopiq</string>
+</resources>

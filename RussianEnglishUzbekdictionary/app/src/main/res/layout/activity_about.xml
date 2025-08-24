@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/windowBackground">
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_about"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <!-- Image -->
+    <ImageView
+        android:id="@+id/img_about"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:src="@drawable/ic_info"
+        android:contentDescription="@string/about_icon"
+        android:padding="16dp" />
+
+    <!-- Text -->
+    <TextView
+        android:id="@+id/tv_about_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Biz haqimizda: Bu ilova sizga so'zlarni tarjima qilish imkonini beradi."
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:textColor="?android:attr/textColorPrimary" />
+
+</LinearLayout>
