@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_settings" android:title="Sozlamalar" android:icon="@android:drawable/ic_menu_preferences" />
+    <item android:id="@+id/nav_about" android:title="Biz haqimizda" android:icon="@android:drawable/ic_menu_info_details" />
+    <item android:id="@+id/nav_share" android:title="Ulashish" android:icon="@android:drawable/ic_menu_share" />
+    <item android:id="@+id/nav_exit" android:title="Chiqish" android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+</menu>

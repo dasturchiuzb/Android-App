@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <!-- Toolbar -->
+  <androidx.appcompat.widget.Toolbar
+      android:id="@+id/history_toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="?attr/actionBarSize"
+      android:background="#6B24D1"
+      android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+      app:title="History"
+      app:titleTextColor="@android:color/white" />
+
+  <!-- History ro'yxati -->
+  <TextView
+      android:id="@+id/tv_about_text"
+      android:layout_width="match_parent"
+      android:layout_height="492dp"
+      android:gravity="center"
+      android:padding="16dp"
+      android:text="Biz haqimizda: Bu ilova sizga so'zlarni tarjima qilish imkonini beradi."
+      android:textColor="?android:attr/textColorPrimary"
+      android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Словарь</string>
+    <string name="toolbar_title">Словарь</string>
+    <string name="history_title">История</string>
+    <string name="search_hint">Поиск слов...</string>
+    <string name="action_favorites">Избранное</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_exit">Выход</string>
+    <string name="about_text">О нас: Это приложение позволяет переводить слова.</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О нас</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_exit">Выход</string>
+    <string name="settings_font_size">Размер шрифта</string>
+    <string name="settings_language">Язык</string>
+    <string name="about_title">О приложении</string>
+    <string name="about_description">Это простое приложение-словарь.</string>
+    <string name="about_icon">Application information icon</string>
+    <string name="navigation_drawer_open">Ochiq</string>
+    <string name="navigation_drawer_close">Yopiq</string>
+</resources>

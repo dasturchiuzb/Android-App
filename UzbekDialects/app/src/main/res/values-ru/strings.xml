@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Узбекские диалекты</string>
+    <string name="toolbar_title">Узбекские диалекты</string>
+    <string name="about_icon">Application information icon</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_exit">Выход</string>
+    <string name="dialog_font_size">Размер шрифта</string>
+    <string name="dialog_language">Выберите язык</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+</resources>

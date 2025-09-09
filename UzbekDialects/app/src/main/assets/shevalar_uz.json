@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Ota",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Ota\"},{\"region\":\"Surxondaryo\",\"word\":\"Dada\"},{\"region\":\"Buxoro\",\"word\":\"Ota\"},{\"region\":\"Andijon\",\"word\":\"Ota\"},{\"region\":\"Xorazm\",\"word\":\"Dada\"},{\"region\":\"Toshkent\",\"word\":\"Ota\"},{\"region\":\"Namangan\",\"word\":\"Dada\"},{\"region\":\"Farg‘ona\",\"word\":\"Ota\"},{\"region\":\"Qashqadaryo\",\"word\":\"Ota\"},{\"region\":\"Jizzax\",\"word\":\"Ota\"}]"
+  },
+  {
+    "title": "Ona",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Ona\"},{\"region\":\"Surxondaryo\",\"word\":\"Aya\"},{\"region\":\"Buxoro\",\"word\":\"Ona\"},{\"region\":\"Andijon\",\"word\":\"Ona\"},{\"region\":\"Xorazm\",\"word\":\"Ana\"},{\"region\":\"Toshkent\",\"word\":\"Ona\"},{\"region\":\"Namangan\",\"word\":\"Ona\"},{\"region\":\"Farg‘ona\",\"word\":\"Ona\"},{\"region\":\"Qashqadaryo\",\"word\":\"Ona\"},{\"region\":\"Jizzax\",\"word\":\"Ona\"}]"
+  },
+  {
+    "title": "Opa",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Opa\"},{\"region\":\"Surxondaryo\",\"word\":\"Acha\"},{\"region\":\"Buxoro\",\"word\":\"Opa\"},{\"region\":\"Andijon\",\"word\":\"Opa\"},{\"region\":\"Xorazm\",\"word\":\"Apa\"},{\"region\":\"Toshkent\",\"word\":\"Opa\"},{\"region\":\"Namangan\",\"word\":\"Opa\"},{\"region\":\"Farg‘ona\",\"word\":\"Opa\"},{\"region\":\"Qashqadaryo\",\"word\":\"Opa\"},{\"region\":\"Jizzax\",\"word\":\"Opa\"}]"
+  },
+  {
+    "title": "Non",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Non\"},{\"region\":\"Surxondaryo\",\"word\":\"Chörək\"},{\"region\":\"Buxoro\",\"word\":\"Non\"},{\"region\":\"Andijon\",\"word\":\"Non\"},{\"region\":\"Xorazm\",\"word\":\"Nan\"},{\"region\":\"Toshkent\",\"word\":\"Non\"},{\"region\":\"Namangan\",\"word\":\"Non\"},{\"region\":\"Farg‘ona\",\"word\":\"Non\"},{\"region\":\"Qashqadaryo\",\"word\":\"Non\"},{\"region\":\"Jizzax\",\"word\":\"Non\"}]"
+  },
+  {
+    "title": "Suv",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Suv\"},{\"region\":\"Surxondaryo\",\"word\":\"Ob\"},{\"region\":\"Buxoro\",\"word\":\"Ob\"},{\"region\":\"Andijon\",\"word\":\"Suv\"},{\"region\":\"Xorazm\",\"word\":\"Suw\"},{\"region\":\"Toshkent\",\"word\":\"Suv\"},{\"region\":\"Namangan\",\"word\":\"Suv\"},{\"region\":\"Farg‘ona\",\"word\":\"Suv\"},{\"region\":\"Qashqadaryo\",\"word\":\"Suv\"},{\"region\":\"Jizzax\",\"word\":\"Suv\"}]"
+  },
+  {
+    "title": "Bola",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Bola\"},{\"region\":\"Surxondaryo\",\"word\":\"Pakan\"},{\"region\":\"Buxoro\",\"word\":\"Farzand\"},{\"region\":\"Andijon\",\"word\":\"Bola\"},{\"region\":\"Xorazm\",\"word\":\"Bala\"},{\"region\":\"Toshkent\",\"word\":\"Bola\"},{\"region\":\"Namangan\",\"word\":\"Bola\"},{\"region\":\"Farg‘ona\",\"word\":\"Bola\"},{\"region\":\"Qashqadaryo\",\"word\":\"Bola\"},{\"region\":\"Jizzax\",\"word\":\"Bola\"}]"
+  },
+  {
+    "title": "Qiz",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Qiz\"},{\"region\":\"Surxondaryo\",\"word\":\"Qizcha\"},{\"region\":\"Buxoro\",\"word\":\"Dukhtar\"},{\"region\":\"Andijon\",\"word\":\"Qiz\"},{\"region\":\"Xorazm\",\"word\":\"Kız\"},{\"region\":\"Toshkent\",\"word\":\"Qiz\"},{\"region\":\"Namangan\",\"word\":\"Qız\"},{\"region\":\"Farg‘ona\",\"word\":\"Qiz\"},{\"region\":\"Qashqadaryo\",\"word\":\"Qiz\"},{\"region\":\"Jizzax\",\"word\":\"Qiz\"}]"
+  },
+  {
+    "title": "Yigit",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Yigit\"},{\"region\":\"Surxondaryo\",\"word\":\"Jigit\"},{\"region\":\"Buxoro\",\"word\":\"Yigit\"},{\"region\":\"Andijon\",\"word\":\"Yigit\"},{\"region\":\"Xorazm\",\"word\":\"Yigit\"},{\"region\":\"Toshkent\",\"word\":\"Yigit\"},{\"region\":\"Namangan\",\"word\":\"Jigit\"},{\"region\":\"Farg‘ona\",\"word\":\"Yigit\"},{\"region\":\"Qashqadaryo\",\"word\":\"Yigit\"},{\"region\":\"Jizzax\",\"word\":\"Yigit\"}]"
+  },
+  {
+    "title": "Salom",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Salom\"},{\"region\":\"Surxondaryo\",\"word\":\"Assalom\"},{\"region\":\"Buxoro\",\"word\":\"Salom\"},{\"region\":\"Andijon\",\"word\":\"Salom\"},{\"region\":\"Xorazm\",\"word\":\"Salawm\"},{\"region\":\"Toshkent\",\"word\":\"Salom\"},{\"region\":\"Namangan\",\"word\":\"Assalomu\"},{\"region\":\"Farg‘ona\",\"word\":\"Salom\"},{\"region\":\"Qashqadaryo\",\"word\":\"Salom\"},{\"region\":\"Jizzax\",\"word\":\"Salom\"}]"
+  },
+  {
+    "title": "Kitob",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Kitob\"},{\"region\":\"Surxondaryo\",\"word\":\"Kitob\"},{\"region\":\"Buxoro\",\"word\":\"Kitob\"},{\"region\":\"Andijon\",\"word\":\"Kitob\"},{\"region\":\"Xorazm\",\"word\":\"Kitob\"},{\"region\":\"Toshkent\",\"word\":\"Kitob\"},{\"region\":\"Namangan\",\"word\":\"Kitob\"},{\"region\":\"Farg‘ona\",\"word\":\"Kitob\"},{\"region\":\"Qashqadaryo\",\"word\":\"Kitob\"},{\"region\":\"Jizzax\",\"word\":\"Kitob\"}]"
+  },
+  {
+    "title": "Maktab",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Maktab\"},{\"region\":\"Surxondaryo\",\"word\":\"Maktab\"},{\"region\":\"Buxoro\",\"word\":\"Maktab\"},{\"region\":\"Andijon\",\"word\":\"Maktab\"},{\"region\":\"Xorazm\",\"word\":\"Maktab\"},{\"region\":\"Toshkent\",\"word\":\"Maktab\"},{\"region\":\"Namangan\",\"word\":\"Maktab\"},{\"region\":\"Farg‘ona\",\"word\":\"Maktab\"},{\"region\":\"Qashqadaryo\",\"word\":\"Maktab\"},{\"region\":\"Jizzax\",\"word\":\"Maktab\"}]"
+  },
+  {
+    "title": "Uy",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Uy\"},{\"region\":\"Surxondaryo\",\"word\":\"Uy\"},{\"region\":\"Buxoro\",\"word\":\"Uy\"},{\"region\":\"Andijon\",\"word\":\"Uy\"},{\"region\":\"Xorazm\",\"word\":\"Uy\"},{\"region\":\"Toshkent\",\"word\":\"Uy\"},{\"region\":\"Namangan\",\"word\":\"Uy\"},{\"region\":\"Farg‘ona\",\"word\":\"Uy\"},{\"region\":\"Qashqadaryo\",\"word\":\"Uy\"},{\"region\":\"Jizzax\",\"word\":\"Uy\"}]"
+  },
+  {
+    "title": "Mashina",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Mashina\"},{\"region\":\"Surxondaryo\",\"word\":\"Mashina\"},{\"region\":\"Buxoro\",\"word\":\"Mashina\"},{\"region\":\"Andijon\",\"word\":\"Mashina\"},{\"region\":\"Xorazm\",\"word\":\"Mashina\"},{\"region\":\"Toshkent\",\"word\":\"Mashina\"},{\"region\":\"Namangan\",\"word\":\"Mashina\"},{\"region\":\"Farg‘ona\",\"word\":\"Mashina\"},{\"region\":\"Qashqadaryo\",\"word\":\"Mashina\"},{\"region\":\"Jizzax\",\"word\":\"Mashina\"}]"
+  },
+  {
+    "title": "Do‘st",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Do‘st\"},{\"region\":\"Surxondaryo\",\"word\":\"Do‘st\"},{\"region\":\"Buxoro\",\"word\":\"Do‘st\"},{\"region\":\"Andijon\",\"word\":\"Do‘st\"},{\"region\":\"Xorazm\",\"word\":\"Do‘st\"},{\"region\":\"Toshkent\",\"word\":\"Do‘st\"},{\"region\":\"Namangan\",\"word\":\"Do‘st\"},{\"region\":\"Farg‘ona\",\"word\":\"Do‘st\"},{\"region\":\"Qashqadaryo\",\"word\":\"Do‘st\"},{\"region\":\"Jizzax\",\"word\":\"Do‘st\"}]"
+  },
+  {
+    "title": "Choy",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Choy\"},{\"region\":\"Surxondaryo\",\"word\":\"Choy\"},{\"region\":\"Buxoro\",\"word\":\"Choy\"},{\"region\":\"Andijon\",\"word\":\"Choy\"},{\"region\":\"Xorazm\",\"word\":\"Choy\"},{\"region\":\"Toshkent\",\"word\":\"Choy\"},{\"region\":\"Namangan\",\"word\":\"Choy\"},{\"region\":\"Farg‘ona\",\"word\":\"Choy\"},{\"region\":\"Qashqadaryo\",\"word\":\"Choy\"},{\"region\":\"Jizzax\",\"word\":\"Choy\"}]"
+  },
+  {
+    "title": "Tosh",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Tosh\"},{\"region\":\"Surxondaryo\",\"word\":\"Tosh\"},{\"region\":\"Buxoro\",\"word\":\"Tosh\"},{\"region\":\"Andijon\",\"word\":\"Tosh\"},{\"region\":\"Xorazm\",\"word\":\"Tosh\"},{\"region\":\"Toshkent\",\"word\":\"Tosh\"},{\"region\":\"Namangan\",\"word\":\"Tosh\"},{\"region\":\"Farg‘ona\",\"word\":\"Tosh\"},{\"region\":\"Qashqadaryo\",\"word\":\"Tosh\"},{\"region\":\"Jizzax\",\"word\":\"Tosh\"}]"
+  },
+  {
+    "title": "Sevgili",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Sevgili\"},{\"region\":\"Surxondaryo\",\"word\":\"Sevgili\"},{\"region\":\"Buxoro\",\"word\":\"Sevgili\"},{\"region\":\"Andijon\",\"word\":\"Sevgili\"},{\"region\":\"Xorazm\",\"word\":\"Sevgili\"},{\"region\":\"Toshkent\",\"word\":\"Sevgili\"},{\"region\":\"Namangan\",\"word\":\"Sevgili\"},{\"region\":\"Farg‘ona\",\"word\":\"Sevgili\"},{\"region\":\"Qashqadaryo\",\"word\":\"Sevgili\"},{\"region\":\"Jizzax\",\"word\":\"Sevgili\"}]"
+  },
+  {
+    "title": "Tosh",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Tosh\"},{\"region\":\"Surxondaryo\",\"word\":\"Tosh\"},{\"region\":\"Buxoro\",\"word\":\"Tosh\"},{\"region\":\"Andijon\",\"word\":\"Tosh\"},{\"region\":\"Xorazm\",\"word\":\"Tosh\"},{\"region\":\"Toshkent\",\"word\":\"Tosh\"},{\"region\":\"Namangan\",\"word\":\"Tosh\"},{\"region\":\"Farg‘ona\",\"word\":\"Tosh\"},{\"region\":\"Qashqadaryo\",\"word\":\"Tosh\"},{\"region\":\"Jizzax\",\"word\":\"Tosh\"}]"
+  },
+  {
+    "title": "Oyna",
+    "description": "[{\"region\":\"Samarqand\",\"word\":\"Oyna\"},{\"region\":\"Surxondaryo\",\"word\":\"Oyna\"},{\"region\":\"Buxoro\",\"word\":\"Oyna\"},{\"region\":\"Andijon\",\"word\":\"Oyna\"},{\"region\":\"Xorazm\",\"word\":\"Oyna\"},{\"region\":\"Toshkent\",\"word\":\"Oyna\"},{\"region\":\"Namangan\",\"word\":\"Oyna\"},{\"region\":\"Farg‘ona\",\"word\":\"Oyna\"},{\"region\":\"Qashqadaryo\",\"word\":\"Oyna\"},{\"region\":\"Jizzax\",\"word\":\"Oyna\"}]"
+  }
+]
