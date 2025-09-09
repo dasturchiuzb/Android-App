@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <!-- Toolbar yuqorida -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarSettings"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <!-- Rasm va ikki matn -->
+    <ImageView
+        android:id="@+id/settingsImage"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="24dp"
+        android:contentDescription="App Logo" />
+
+    <TextView
+        android:id="@+id/settingsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android Widgets"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="12dp" />
+
+    <TextView
+        android:id="@+id/settingsSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version 1.0"
+        android:layout_marginTop="3dp"
+        android:textSize="16sp"/>
+
+    <!-- LinearLayout ichida Settings itemlari -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="16dp">
+
+        <!-- Tillar item -->
+        <LinearLayout
+            android:id="@+id/itemLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="?attr/selectableItemBackground"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/tvLanguage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🌐 Tillar"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Dastur haqida item -->
+        <LinearLayout
+            android:id="@+id/itemAbout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="?attr/selectableItemBackground"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/tvAbout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ℹ️ Dastur haqida"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Ulashish item -->
+        <LinearLayout
+            android:id="@+id/itemShare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="?attr/selectableItemBackground"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/tvShare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🔗 Ulashish"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- Chiqish item -->
+        <LinearLayout
+            android:id="@+id/itemExit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="?attr/selectableItemBackground"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/tvExit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🚪 Chiqish"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
